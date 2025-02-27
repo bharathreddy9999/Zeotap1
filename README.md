@@ -15,12 +15,12 @@ Future Improvements
 Contributing
 License
 Overview
-This is a Google Sheets Clone built with simple web technologies (HTML, CSS, and JavaScript). It allows you to create and manipulate a spreadsheet-like grid, apply basic formatting, perform mathematical operations, and handle data transformations (like trimming, case conversion, removing duplicates, and more).
+This is a Google Sheets Clone built with  web technologies (HTML, CSS, and JavaScript). It allows you to create and manipulate a spreadsheet-like grid, apply basic formatting, perform mathematical operations, and handle data transformations (like trimming, case conversion, removing duplicates, and more).
 
 Tech Stack
 HTML: Structures the webpage and sets up the spreadsheet table.
 CSS: Styles the user interface, making the spreadsheet resemble a typical sheet/grid.
-Vanilla JavaScript: Implements logic for creating, formatting, resizing rows/columns, applying formulas, and more.
+Vite+ React Js: Implements logic for creating, formatting, resizing rows/columns, applying formulas, and more.
 Why This Tech Stack?
 
 Simplicity: Using Vanilla JavaScript, HTML, and CSS keeps the project light, easy to understand, and straightforward to modify.
